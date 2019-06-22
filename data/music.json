@@ -1,0 +1,32 @@
+{
+  "artists": [
+    {
+      "genres": "Pop",
+      "sub_genres": "Disco-Pop, Country-Pop, Space Age"
+    },
+    {
+      "genres": "Hip-Hop",
+      "sub_genres": "GFunk, Rap-Rock, Hip-House"
+    },
+    {
+      "genres": "Rock",
+      "sub_genres": "Alternative, Punk Rock, Progressive, Hard Rock"
+    },
+    {
+      "genres": "Jazz",
+      "sub_genres": "Jazz Blues, Bebop, Swing"
+    },
+    {
+      "genres": "Blues",
+      "sub_genres": "Jazz Blues, Country Blues"
+    },
+    {
+      "genres": "Country",
+      "sub_genres": "Blues Country, Bluegrass, Country-Rock"
+    },
+    {
+      "genres": "Metal",
+      "sub_genres": "Trash Metal, Black Metal, Death Metal, Gothic Metal"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "artists": [
+    {
+      "artist_name": "Taylor Swift, Lady Gaga, Pink, Chris Brown"
+    },
+    {
+      "artist_name": "JayZ, Eminem, Drake, Nicki Minaj"
+    },
+    {
+      "artist_name": "Led Zeppelin, 12 Stones, The Beach Boys, Beatles, Eric Clapton"
+    },
+    {
+      "artist_name": "Frank Sinatra, Nancy Wilson"
+    },
+    {
+      "artist_name": "Jimmy Rogers, David Maxwell"
+    },
+    {
+      "artist_name": "Lady Antebellum, Brad Paisley, Bob Dylan"
+    },
+    {
+      "artist_name": "Metallica, Iron Maiden, Slayer, Megadeth"
+    }
+  ]
+}
